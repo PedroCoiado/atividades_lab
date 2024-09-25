@@ -1,5 +1,5 @@
 
-typedef struct cliente
+typedef struct 
 
 {
         char nome[100];
