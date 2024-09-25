@@ -1,4 +1,7 @@
 
+#ifndef CLIENTE_H
+#define CLIENTE_H
+
 typedef struct 
 
 {
@@ -12,3 +15,4 @@ typedef struct
     int validar_cpf(char *cpf);
     int validar_email(char *email);
  
+#endif
